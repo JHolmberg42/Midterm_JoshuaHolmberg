@@ -7,7 +7,7 @@ This is a SwiftUI app that lists military aircraft with images and descriptions.
 - Displays aircraft image, name, and description## How to use
 ## How to use
 1. Clone the repo or download the project.
-2. Open `MilitaryAircraftApp.xcodeproj` in Xcode.
+2. Open `Midterm_JoshuaHolmberg.xcodeproj` in Xcode.
 3. Run the app on a simulator or physical device.
 4. Tap an aircraft from the list to see more information.
 
