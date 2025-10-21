@@ -1,0 +1,56 @@
+[
+    {
+        "id": "F/A-18 Super Hornet",
+        "name": "F/A-18 Super Hornet",
+        "description": "A twin-engine, carrier-capable multirole fighter used by the U.S. Navy and Marine Corps. Known for versatility and reliability.",
+        "imageName": "f18"
+    },
+    {
+        "id": "F-22 Raptor",
+        "name": "F-22 Raptor",
+        "description": "A fifth-generation stealth air superiority fighter designed for the U.S. Air Force. Known for its speed, agility, and stealth.",
+        "imageName": "f22"
+    },
+    {
+        "id": "F-16 Fighting Falcon",
+        "name": "F-16 Fighting Falcon",
+        "description": "A highly maneuverable multirole fighter aircraft, widely used around the world. Known for its agility and versatility in combat.",
+        "imageName": "f16"
+    },
+    {
+        "id": "F-14 Tomcat",
+        "name": "F-14 Tomcat",
+        "description": "A carrier-based supersonic fighter with variable-sweep wings. Famous for its role in the U.S. Navy and the movie Top Gun.",
+        "imageName": "f14"
+    },
+    {
+        "id": "F-117 Nighthawk",
+        "name": "F-117 Nighthawk",
+        "description": "The first operational stealth aircraft. Used for precision strikes and known for its faceted design to evade radar.",
+        "imageName": "f117"
+    },
+    {
+        "id": "C-130 Hercules",
+        "name": "C-130 Hercules",
+        "description": "A versatile military transport aircraft used for cargo, troop transport, and humanitarian missions. Known for rugged reliability.",
+        "imageName": "c130"
+    },
+    {
+        "id": "C-17 Globemaster III",
+        "name": "C-17 Globemaster III",
+        "description": "A large military transport aircraft capable of rapid strategic airlift of troops and cargo to main or forward bases.",
+        "imageName": "c17"
+    },
+    {
+        "id": "B-2 Spirit",
+        "name": "B-2 Spirit",
+        "description": "A stealth bomber capable of delivering conventional and nuclear payloads. Its flying wing design makes it nearly invisible to radar.",
+        "imageName": "b2"
+    },
+    {
+        "id": "C-5 Galaxy",
+        "name": "C-5 Galaxy",
+        "description": "One of the largest military aircraft in the world, designed to transport oversized cargo across intercontinental distances.",
+        "imageName": "c5"
+    }
+]
